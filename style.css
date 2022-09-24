@@ -1,0 +1,687 @@
+/* Developer By AHMED AHIYA */
+
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background: navy;
+}
+.containeer{
+	padding: 0px 100px;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+	height: 100px;
+
+}
+.logo{
+	width: 40%;
+	margin: auto;
+	padding-top: 20px;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+/* Home Section */
+.home{
+	width: 100%;
+	height: 400px;
+	
+}
+.home-v{
+	width: 70%;
+	height: 400px;
+	margin: auto;
+}
+.v{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+/* Home Section */
+.main{
+	width: 100%;
+	height: 1100px;
+}
+.main-grid{
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	margin-top: 50px;
+	grid-gap: 10px;
+}
+.main-grid-box{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+}
+.v-extra{
+	width: 250px;
+	height: 250px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+@media screen and (max-width: 992px){
+
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background: navy;
+}
+.containeer{
+	padding: 0px 100px;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+	height: 100px;
+
+}
+.logo{
+	width: 40%;
+	margin: auto;
+	padding-top: 20px;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+/* Home Section */
+.home{
+	width: 100%;
+	height: 400px;
+	
+}
+.home-v{
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.v{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+/* Home Section */
+.main{
+	width: 100%;
+	height: 1600px;
+}
+.main-grid{
+	display: grid;
+	grid-template-columns: repeat(3, 6fr);
+	margin-top: 50px;
+	grid-gap: 10px;
+}
+.main-grid-box{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+}
+.v-extra{
+	width: 250px;
+	height: 250px;
+}
+
+
+
+
+
+/* Responsive closed*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+@media screen and (max-width: 767px){
+
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background: navy;
+}
+.containeer{
+	padding: 0px 100px;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+	height: 100px;
+
+}
+.logo{
+	width: 40%;
+	margin: auto;
+	padding-top: 20px;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+/* Home Section */
+.home{
+	width: 100%;
+	height: 400px;
+	
+}
+.home-v{
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.v{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+/* Home Section */
+.main{
+	width: 100%;
+	height: 2100px;
+}
+.main-grid{
+	display: grid;
+	grid-template-columns: repeat(2, 8fr);
+	margin-top: 50px;
+	grid-gap: 10px;
+}
+.main-grid-box{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+}
+.v-extra{
+	width: 250px;
+	height: 250px;
+}
+
+
+
+
+
+/* Responsive closed*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+@media screen and (max-width: 667px){
+
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background: navy;
+}
+.containeer{
+	padding: 0px 0px;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+	height: 100px;
+
+}
+.logo{
+	width: 40%;
+	margin: auto;
+	padding-top: 20px;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+/* Home Section */
+.home{
+	width: 100%;
+	height: 400px;
+	
+}
+.home-v{
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.v{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+/* Home Section */
+.main{
+	width: 100%;
+	height: 2100px;
+}
+.main-grid{
+	display: grid;
+	grid-template-columns: repeat(2, 8fr);
+	margin-top: 50px;
+	grid-gap: 10px;
+}
+.main-grid-box{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+}
+.v-extra{
+	width: 250px;
+	height: 250px;
+}
+
+
+
+
+
+/* Responsive closed*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+@media screen and (max-width: 575px){
+
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background: navy;
+}
+.containeer{
+	padding: 0px 0px;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+	height: 100px;
+
+}
+.logo{
+	width: 40%;
+	margin: auto;
+	padding-top: 20px;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+/* Home Section */
+.home{
+	width: 100%;
+	height: 400px;
+	
+}
+.home-v{
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.v{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+/* Home Section */
+.main{
+	width: 100%;
+	height: 2100px;
+}
+.main-grid{
+	display: grid;
+	grid-template-columns: repeat(2, 8fr);
+	margin-top: 50px;
+	grid-gap: 10px;
+}
+.main-grid-box{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+}
+.v-extra{
+	width: 250px;
+	height: 250px;
+}
+
+
+
+
+
+/* Responsive closed*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+@media screen and (max-width: 475px){
+
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background: navy;
+}
+.containeer{
+	padding: 0px 0px;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+	height: 100px;
+
+}
+.logo{
+	width: 40%;
+	margin: auto;
+	padding-top: 20px;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+/* Home Section */
+.home{
+	width: 100%;
+	height: 400px;
+	
+}
+.home-v{
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.v{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+/* Home Section */
+.main{
+	width: 100%;
+	height: 2100px;
+}
+.main-grid{
+	display: grid;
+	grid-template-columns: repeat(2, 8fr);
+	margin-top: 50px;
+	grid-gap: 10px;
+}
+.main-grid-box{
+	width: 200px;
+	height: 200px;
+	margin: auto;
+}
+.v-extra{
+	width: 200px;
+	height: 200px;
+}
+
+
+
+
+
+/* Responsive closed*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Responsive */
+@media screen and (max-width: 375px){
+
+*{
+	padding: 0;
+	margin: 0;
+
+}
+body{
+	background: navy;
+}
+.containeer{
+	padding: 0px 0px;
+}
+
+/* Header Section */
+.header {
+	width: 100%;
+	height: 100px;
+
+}
+.logo{
+	width: 40%;
+	margin: auto;
+	padding-top: 20px;
+}
+.logo img{
+	width: 150px;
+	display: block;
+	margin: auto;
+}
+
+
+/* Home Section */
+.home{
+	width: 100%;
+	height: 400px;
+	
+}
+.home-v{
+	width: 100%;
+	height: 400px;
+	margin: auto;
+}
+.v{
+	width: 100%;
+	height: 400px;
+}
+
+
+
+/* Home Section */
+.main{
+	width: 100%;
+	height: 2100px;
+}
+.main-grid{
+	display: grid;
+	grid-template-columns: repeat(1, 16fr);
+	margin-top: 50px;
+	grid-gap: 10px;
+}
+.main-grid-box{
+	width: 250px;
+	height: 250px;
+	margin: auto;
+}
+.v-extra{
+	width: 250px;
+	height: 250px;
+}
+
+
+
+
+
+/* Responsive closed*/
+}
